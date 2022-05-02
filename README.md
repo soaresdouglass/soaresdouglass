@@ -23,4 +23,4 @@
   <img align="center" alt="doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div> <br>
    
- ![Snake animation](https://github.com/soaresdouglass/soaresdouglass/blob/output/github-contribution-grid-snake.svg)
+ 
